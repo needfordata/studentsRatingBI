@@ -11,3 +11,8 @@ BI-система получает данные из google spreadsheets таб�
 Вебинар о BI cистеме есть по [ссылке](https://www.youtube.com/watch?v=xPRTk0gdJLQ)
 
 [![](https://content.screencast.com/media/5ffa6f9e-fcb7-4845-8db3-6e5e519fe9d4_9d700cb2-87df-433c-8403-c813c6a51c87_static_0_0_2018-03-29_01-24-17.png)](https://www.youtube.com/watch?v=xPRTk0gdJLQ)
+
+# Changelog
+
+Здесь мы будем пытаться вести лог релизов согласно https://keepachangelog.com/en/1.0.0/ 
+Спасибо, Дмитрий Власов @DmitriyVlasov, что показал документ. 
