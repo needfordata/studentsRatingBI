@@ -1,6 +1,6 @@
 # studentsRatingBI
 
-BI-система с рейтингом студентов образовательных курсов на данных из google spreadsheets. Скачать PBIX файл можно из раздела [релизы](https://github.com/maxim-uvarov/studentsRatingBI/releases/latest).
+BI-система с рейтингом студентов образовательных курсов на данных из google spreadsheets. Скачать PBIX файл можно по [ссылке](https://github.com/needfordata/studentsRatingBI/blob/master/StudentsRatingBI%202.0.0.pbix).
 
 BI-система получает данные из google spreadsheets таблиц ([таблица 1](https://docs.google.com/spreadsheets/d/1grd7YHAI6kwQPUYaJMogufg-p1elc0jEXvwMlfhtFus/edit?usp=sharing), [таблица 2](https://docs.google.com/spreadsheets/d/120N-dnTIQrJbyn5yVYpd7KICv-mhygup_BzrJJBDtQ0/edit?usp=sharing), [таблица 3](https://docs.google.com/spreadsheets/d/1gEB0DLB592p-vLFQK1I5lvoRW5Uo8sGgMAw0mro58eo/edit?usp=sharing)). Эти таблицы содержат в себе настоящие данные по студентам курсов NeedForData, но с закодированными именами студентов.
 
