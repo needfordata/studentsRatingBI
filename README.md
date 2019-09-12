@@ -14,5 +14,5 @@ BI-система получает данные из google spreadsheets таб�
 
 # Changelog
 
-Changlog проекта хранится в [файле](https://github.com/needfordata/studentsRatingBI)
+Changlog проекта планируется к хранинию в [файле](https://github.com/needfordata/studentsRatingBI)
 Спасибо, Дмитрий Власов @DmitriyVlasov, что показал документ. 
